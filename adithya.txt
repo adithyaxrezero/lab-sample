@@ -1,2 +1,2 @@
 hello 
-its my first program
+its my second program
